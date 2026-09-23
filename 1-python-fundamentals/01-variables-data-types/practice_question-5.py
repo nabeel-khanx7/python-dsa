@@ -1,4 +1,4 @@
-#Q5. Age Calculator ⭐
+#Q5. Age Calculator 
 #Write a Python program that takes the user's current age as input and calculates their age:
 #After 5 years
 #After 10 years
